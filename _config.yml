@@ -1,6 +1,6 @@
 name: kp-test
 favicon: null
-layout_spectrum: 0.29401
+layout_spectrum: 0.5406407264526933
 typography_spectrum: 0.833829561015591
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8125
-  lightness: 0.625
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  brandStrength: 0.8607461859937757
+  lightness: 0.24596304399892688
+  saturation: 0.8310842390637845
+  rhythmicContrast: 0.2588010395411402
 purpose: []
