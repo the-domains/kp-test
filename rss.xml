@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[kp-test]]></title>
         <description><![CDATA[kp-test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kp-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 13:05:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 13:17:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kp-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined324d718d-d369-47dc-8545-7d0a9ed5578c/index.html</link>
+            <link>https://thegrid.ai/kp-test/324d718d-d369-47dc-8545-7d0a9ed5578c/index.html</link>
             <guid isPermaLink="false">324d718d-d369-47dc-8545-7d0a9ed5578c</guid>
-            <pubDate>Sun, 10 Apr 2016 13:05:29 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 13:17:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
